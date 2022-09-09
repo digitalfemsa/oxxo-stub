@@ -1,5 +1,5 @@
-# OXXO Pay Payment Stub
+# OXXO Payment Stub
 
-This is an example of this OXXO Pay payment stub:
+This is an example of this OXXO payment stub:
 
 ![OPS](Ficha_Pago_Oxxo.png)
