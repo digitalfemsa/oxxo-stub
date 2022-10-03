@@ -35,7 +35,7 @@ h3 {
 }
 
 .opps-info {
-	margin-top: 26px;
+	margin-top: 2px;
 	position: relative;
 }
 
@@ -49,19 +49,50 @@ h3 {
 
 }
 
+.opps-logo {
+    	width: 45%;
+   	float: left;
+    	color: #ffffff;
+    	background: #171D4D;
+}
+
+.opps-logo img {
+    	max-width: 180px;
+    	margin-top: 10px;
+    	margin-bottom: 10px;
+    	padding: 10px;
+}
+
+.opps-title {
+	width: 55%;
+	float: right;
+   	float: left;
+    	background: #171D4D;
+}
+
+.opps-title h2 {
+	margin-top: 26px;
+	margin-bottom: 18px;
+	font-size: 16px;
+	color: #ffffff;
+	align: center;
+}
 .opps-brand {
-	width: 45%;
-	float: left;
+    	width: 45%;
+    	float: left;
+   	 margin-top: 20px;
 }
 
 .opps-brand img {
-	max-width: 250px;
-	margin-top: 2px;
+   	 max-width: 130px;
+   	 margin-top: -20px;
+    	padding: 50px;
 }
 
 .opps-ammount {
 	width: 55%;
 	float: right;
+	margin-top: 20px;
 }
 
 .opps-ammount h2 {
