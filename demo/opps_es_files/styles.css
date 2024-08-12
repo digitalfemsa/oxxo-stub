@@ -1,0 +1,148 @@
+a {
+	padding: 0;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	word-spacing:normal;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+}
+
+table,
+td {
+	border-collapse: collapse;
+	mso-table-lspace: 0pt;
+	mso-table-rspace: 0pt;
+}
+
+img {
+	border: 0;
+	height: auto;
+	line-height: 100%;
+	outline: none;
+	text-decoration: none;
+	-ms-interpolation-mode: bicubic;
+}
+
+p {
+	display: block;
+	margin: 13px 0;
+}
+
+@media only screen and (min-width: 480px) {
+	.opps-column-per-100 {
+		width: 100% !important;
+		max-width: 100%;
+		font-size:0;
+		text-align:left;
+		direction:ltr;
+		display:inline-block;
+		vertical-align:top;
+	}
+
+	.opps-column-per-50 {
+		width: 50% !important;
+		max-width: 50%;
+		font-size:0;
+		text-align:left;
+		direction:ltr;
+		display:inline-block;
+		vertical-align:top;
+	}
+
+	.opps-column-px-300 {
+		width: 300px !important;
+		max-width: 300px;
+	}
+
+	.opps-column-per-33-333333333333336 {
+		width: 33.333333333333336% !important;
+		max-width: 33.333333333333336%;
+	}
+
+	.opps-column-per-20 {
+		width: 20% !important;
+		max-width: 20%;
+		font-size:0px;
+		text-align:left;
+		direction:ltr;
+		display:inline-block;
+		vertical-align:middle;
+	}
+
+	.opps-column-per-16-666666666666668 {
+		width: 16.666666666666668% !important;
+		max-width: 16.666666666666668%;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	div.opps-full-width-mobile {
+		width: 100% !important;
+	}
+
+	div.opps-full-width-mobile {
+		width: auto !important;
+	}
+}
+.title {
+	padding: 20px 150px 0 150px;
+}
+
+p {
+	margin-top: 0;
+}
+
+.content {
+	direction:ltr;
+	font-size:0;
+	padding:0;
+	text-align:center;
+}
+
+.section {
+	font-size:0;
+	padding:0;
+	word-break:break-word;
+}
+
+.section-image {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+
+.image-logo {
+	border:0;
+	display:block;
+	outline:none;
+	text-decoration:none;
+	height:auto;
+	width:100%;
+	font-size:13px;
+}
+
+@media only screen and (max-width: 480px) {
+	.steps-txt {
+		padding: 0 !important;
+		text-align: left !important;
+	}
+
+	.step-icon {
+		padding-left: 46% !important;
+		padding-bottom: 0 !important;
+	}
+
+	p {
+		text-align: center !important;
+	}
+
+	.title {
+		padding: 15px 50px 0 50px
+	}
+
+	.cash-in-oxxo-footer > table > tbody > tr > td {
+		padding: 30px 40px 0 40px !important;
+	}
+}
